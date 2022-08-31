@@ -1,5 +1,8 @@
 # OTFS-and-OFDM-Transceivers
 ### Implementation of OFDM and OTFS transceivers on GNU Radio  (software defined radio or SDR)
+
+### NOTE : The grc and python files are to be opened by using GNU Radio. [Download Here](https://www.gnuradio.org/)
+
 #### OFDM TRANSCEIVER:
 
 <h4> 
